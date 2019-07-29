@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ResistorCalculator</string>
+    <string name="valor_r">VALOR</string>
+    <string name="calcular">CALCULAR</string>
+</resources>
